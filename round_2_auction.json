@@ -1,0 +1,104 @@
+{
+  "players_for_auction": [
+    {
+      "name": "Kagiso Rabada",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Ferguson",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Adil Rashid",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Josh Hazelwood",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Tim Southee",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Ish Sodhi",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Jack Leach",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Lungi Ngidi",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Shamshi",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Nathan Ellis",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Zaman Khan",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Liam Hackett",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Ravi Bishnoi",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Mujeeb ur Rahman",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "T Natarajan",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Josh Little",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Noor Ahmed",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Stuart Broad",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Obed McCoy",
+      "category": "Bowler",
+      "base_price": 100000
+    }
+  ]
+}

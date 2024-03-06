@@ -1,0 +1,104 @@
+{
+  "players_for_auction": [
+    {
+      "name": "M Stoinis",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Glenn Phillips",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Shadab Khan",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Mark Chapman",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Kyle Mayers",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Washington Sundar",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "K Pollard",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Ifthikar Ahmed",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Shardul Thakur",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Michael Bracewell",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Roston Chase",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Luis Reece",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Craig Overton",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Samit Patel",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "David Wiese",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Tom Curran",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Ryan Higgins",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Riyan Parag",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Salman Ali Agha",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Dwayne Bravo",
+      "category": "All-Rounder",
+      "base_price": 150000
+    }
+  ]
+}

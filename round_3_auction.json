@@ -1,0 +1,104 @@
+{
+  "players_for_auction": [
+    {
+      "name": "Mitchell Santner",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Ashton Agar",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Marco Jansen",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Jason Holder",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Cameron Green",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Axar Patel",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Rachin Ravindra",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Sikander Raza",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Dasun Shanaka",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Moise Henriques",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Venki Iyer",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Deepak Hooda",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Darcy Short",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Krunal Pandya",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Stubbs",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Ben Cutting",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "George Garton",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Aaron Hardie",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Michael Neser",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Matt Short",
+      "category": "All-Rounder",
+      "base_price": 100000
+    }
+  ]
+}

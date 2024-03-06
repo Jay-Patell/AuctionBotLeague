@@ -1,0 +1,256 @@
+{
+    "players_for_auction": [],
+    "teams": {
+        "SKR": {
+            "owner": 1127099249226690652,
+            "max_size": 18,
+            "purse": 10000,
+            "players": [
+                "TOM LATHAM",
+                "VIRAT KOHLI",
+                "BEN STOKES",
+                "QUINTON DE KOCK",
+                "RASHID KHAN",
+                "R ASHWIN",
+                "TRENT BOULT",
+                "Jason Roy",
+                "Josh Hazelwood",
+                "Shamshi",
+                "Liam Hackett",
+                "Ashton Agar",
+                "George Garton",
+                "Olle Pope",
+                "Josh Inglis",
+                "Kyle Jamieson",
+                "Sam Billings"
+            ]
+        },
+        "CSK": {
+            "owner": 256972361918578688,
+            "max_size": 18,
+            "purse": 1320000,
+            "players": [
+                "Glenn Maxwell",
+                "MS Dhoni",
+                "Mohd Shami",
+                "Faf du Plessis",
+                "David Willey",
+                "Sean Willaims",
+                "Suya Kumar Yadav",
+                "Shai Hope",
+                "Ish Sodhi",
+                "T Natarajan",
+                "Moise Henriques",
+                "Deepak Hooda",
+                "Shreyas Iyer",
+                "Alex Carey",
+                "Bhuvneshwar Kumar",
+                "Kyle Mayers",
+                "Salman Ali Agha",
+                "Shadab Khan"
+            ]
+        },
+        "BBS": {
+            "owner": 748773143543283785,
+            "max_size": 18,
+            "purse": 350000,
+            "players": [
+                "shubman gill",
+                "Kane Williamson",
+                "Mitchell Starc",
+                "Keshav Maharaj",
+                "shakib al Hasan",
+                "Mitch marsh",
+                "klaasen",
+                "Travis Head",
+                "Rinku Singh",
+                "Tim Southee",
+                "Lungi Ngidi",
+                "Mujeeb ur Rahman",
+                "Venki Iyer",
+                "Usman Khawaja",
+                "Prithvi Shaw",
+                "Sarfaraz Khan",
+                "Shardul Thakur",
+                "Dwayne Bravo"
+            ]
+        },
+        "RL": {
+            "owner": 581514869879078931,
+            "max_size": 18,
+            "purse": 80000,
+            "players": [
+                "RAKHEEM CORNWALL",
+                "SANJU SAMSON",
+                "JOS BUTTLER",
+                "HARIS RAUF",
+                "PUJARA",
+                "BUMRAH",
+                "ANDERSON",
+                "Babar Azam",
+                "Azam Khan",
+                "Stuart Broad",
+                "Mitchell Santner",
+                "Jason Holder",
+                "Nicholas Pooran",
+                "Ishan Kishan",
+                "Yuzi Chahal",
+                "Saim Ayub",
+                "Spencer Johnson",
+                "Rahul Chahar"
+            ]
+        },
+        "PS": {
+            "owner": 1111497896018313268,
+            "max_size": 18,
+            "purse": 90000,
+            "players": [
+                "Rishabh Pant",
+                "David Warner",
+                "Sam Curran",
+                "Chris Woakes",
+                "Liam Dawson",
+                "Adam Zampa",
+                "Nathan Lyon",
+                "KL Rahul",
+                "Josh Little",
+                "Obed McCoy",
+                "Marco Jansen",
+                "Marnus Labuschagne",
+                "Jordan Cox",
+                "Henry Nicholls",
+                "Sandeep Sharma",
+                "Alzarri Joseph",
+                "M Stoinis",
+                "Luis Reece"
+            ]
+        },
+        "CC": {
+            "owner": 447509310679810054,
+            "max_size": 18,
+            "purse": 130000,
+            "players": [
+                "Andre Russell \ud83c\uddef\ud83c\uddf2 \ud83c\udfcf<:cricketball:1211503836045516842>",
+                "Luke Wood \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f <:cricketball:1211503836045516842>",
+                "Joe Root \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f \ud83c\udfcf",
+                "Jonny Bairstow \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f \ud83c\udfcf \ud83e\udde4",
+                "Moeen Ali \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f \ud83c\udfcf <:cricketball:1211503836045516842>",
+                "Harry Brook \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f \ud83c\udfcf",
+                "Liam Livingstone \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f \ud83c\udfcf <:cricketball:1211503836045516842>",
+                "Shikar Dhawan",
+                "Litton Das",
+                "Tom Banton",
+                "Will Jacks",
+                "Ferguson",
+                "Adil Rashid",
+                "Nathan Ellis",
+                "Michael Neser",
+                "Ben Duckett",
+                "Shaheen Shah Afridi",
+                "glenn phillips"
+            ]
+        },
+        "BABT": {
+            "owner": 585802481779474466,
+            "max_size": 18,
+            "purse": 930000,
+            "players": [
+                "Alex Hales",
+                "Yashasvi Jaiswal",
+                "Steve Smith",
+                "Aiden Markram",
+                "Wiaan Mulder",
+                "Pat Cummins",
+                "Matheesa Pathirana",
+                "Matthew Wade",
+                "Shimon Hetmyer",
+                "Kuldeep Yadav",
+                "Jack Leach",
+                "Axar Patel",
+                "Krunal Pandya",
+                "Stubbs",
+                "Ben Cutting",
+                "Phil Salt",
+                "K Pollard"
+            ]
+        },
+        "SS": {
+            "owner": 588612578435923980,
+            "max_size": 18,
+            "purse": 90000,
+            "players": [
+                "Rohit Sharma",
+                "Wanindu Hasaranga",
+                "Arshdeep Singh",
+                "Anrich Nortje",
+                "David Miller",
+                "Hardik Pandya",
+                "Ravindra Jadeja",
+                "Devon Conway",
+                "Tilak Varma",
+                "Nitish Rana",
+                "Kagiso Rabada",
+                "Ravi Bishnoi",
+                "Noor Ahmed",
+                "Cameron Green",
+                "Dasun Shanaka",
+                "Zak Crawley"
+            ]
+        },
+        "KK": {
+            "owner": 485543064266604581,
+            "max_size": 18,
+            "purse": -10000,
+            "players": [
+                "Mark Wood",
+                "Daryl Michelle",
+                "Finn Allen",
+                "Aamer Jamal",
+                "Jimmy Neesham",
+                "Imad Wasim",
+                "Mohammad Rizwan",
+                "Rilee Rossouw",
+                "Rowan Powell",
+                "Zaman Khan",
+                "Rachin Ravindra",
+                "Sikander Raza",
+                "Fakhar Zaman",
+                "Colin Munro",
+                "S Narine",
+                "Iftikhar Ahmed",
+                "Jofra Archer",
+                "Marcus Haris"
+            ]
+        }
+    },
+    "unsold": [],
+    "users": {
+        "256972361918578688": {
+            "purse": 1320000
+        },
+        "1127099249226690652": {
+            "purse": 10000
+        },
+        "748773143543283785": {
+            "purse": 500000
+        },
+        "581514869879078931": {
+            "purse": 80000
+        },
+        "1111497896018313268": {
+            "purse": 90000
+        },
+        "447509310679810054": {
+            "purse": 330000
+        },
+        "585802481779474466": {
+            "purse": 930000
+        },
+        "588612578435923980": {
+            "purse": 90000
+        },
+        "485543064266604581": {
+            "purse": 140000
+        }
+    }
+}

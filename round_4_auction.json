@@ -1,0 +1,109 @@
+{
+  "players_for_auction": [
+    {
+      "name": "Marnus Labuschagne",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Nicholas Pooran",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Shreyas Iyer",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Usman Khawaja",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Alex Carey",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Ishan Kishan",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Ben Duckett",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Phil Salt",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Zak Crawley",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Olle Pope",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Shan Masood",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Fakhar Zaman",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Prithvi Shaw",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Jordan Cox",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Saim Ayub",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Henry Nicholls",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Sarfaraz Khan",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Colin Munro",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Iman ul Haq",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Josh Inglis",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Tim Seifert",
+      "category": "Batsman",
+      "base_price": 100000
+    }
+  ]
+}

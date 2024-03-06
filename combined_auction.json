@@ -1,0 +1,604 @@
+{
+  "players_for_auction": [
+    {
+      "name": "KL Rahul",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Devon Conway",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Travis Head",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Babar Azam",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Mohammad Rizwan",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Shikar Dhawan",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Jason Roy",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Litton Das",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Marcus Haris",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Matthew Wade",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Shimon Hetmyer",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Rilee Rossouw",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Shai Hope",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Tom Banton",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Will Jacks",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Rowan Powell",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Rinku Singh",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Tilak Varma",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Azam Khan",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Nitish Rana",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Kagiso Rabada",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Ferguson",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Adil Rashid",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Josh Hazelwood",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Tim Southee",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Ish Sodhi",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Jack Leach",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Lungi Ngidi",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Shamshi",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Nathan Ellis",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Zaman Khan",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Liam Hackett",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Ravi Bishnoi",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Mujeeb ur Rahman",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "T Natarajan",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Josh Little",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Noor Ahmed",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Stuart Broad",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Obed McCoy",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Mitchell Santner",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Ashton Agar",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Marco Jansen",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Jason Holder",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Cameron Green",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Axar Patel",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Rachin Ravindra",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Sikander Raza",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Dasun Shanaka",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Moise Henriques",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Venki Iyer",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Deepak Hooda",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Darcy Short",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Krunal Pandya",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Stubbs",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Ben Cutting",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "George Garton",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Aaron Hardie",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Michael Neser",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Matt Short",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Marnus Labuschagne",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Nicholas Pooran",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Shreyas Iyer",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Usman Khawaja",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Alex Carey",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Ishan Kishan",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Ben Duckett",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Phil Salt",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Zak Crawley",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Olle Pope",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Shan Masood",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Fakhar Zaman",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Prithvi Shaw",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Jordan Cox",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Saim Ayub",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Henry Nicholls",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Sarfaraz Khan",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Colin Munro",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Iman ul Haq",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Josh Inglis",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Tim Seifert",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Shaheen Shah Afridi",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Yuzi Chahal",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Kyle Jamieson",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Bhuvneshwar Kumar",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Jofra Archer",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Jason Behrendorff",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Jhye Richardson",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Matt Henry",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Tymal Mills",
+      "category": "Bowler",
+      "base_price": 150000
+    },
+    {
+      "name": "Sandeep Sharma",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Adam Milne",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Spencer Johnson",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Rahul Chahar",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Umran Malik",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Sean Abbott",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Shamar Joseph",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "Alzarri Joseph",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "S Narine",
+      "category": "Bowler",
+      "base_price": 200000
+    },
+    {
+      "name": "Reece Topley",
+      "category": "Bowler",
+      "base_price": 100000
+    },
+    {
+      "name": "M Stoinis",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Glenn Phillips",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Shadab Khan",
+      "category": "All-Rounder",
+      "base_price": 200000
+    },
+    {
+      "name": "Mark Chapman",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Kyle Mayers",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Washington Sundar",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "K Pollard",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Ifthikar Ahmed",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Shardul Thakur",
+      "category": "All-Rounder",
+      "base_price": 150000
+    },
+    {
+      "name": "Michael Bracewell",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Roston Chase",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Luis Reece",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Craig Overton",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Samit Patel",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "David Wiese",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Tom Curran",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Ryan Higgins",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Riyan Parag",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Salman Ali Agha",
+      "category": "All-Rounder",
+      "base_price": 100000
+    },
+    {
+      "name": "Dwayne Bravo",
+      "category": "All-Rounder",
+      "base_price": 150000
+    }
+  ]
+}

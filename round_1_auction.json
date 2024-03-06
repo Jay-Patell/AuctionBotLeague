@@ -1,0 +1,104 @@
+{
+  "players_for_auction": [
+    {
+      "name": "KL Rahul",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Devon Conway",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Travis Head",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Babar Azam",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Mohammad Rizwan",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Shikar Dhawan",
+      "category": "Batsman",
+      "base_price": 200000
+    },
+    {
+      "name": "Jason Roy",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Litton Das",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Marcus Haris",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Matthew Wade",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Shimon Hetmyer",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Rilee Rossouw",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Shai Hope",
+      "category": "Batsman",
+      "base_price": 150000
+    },
+    {
+      "name": "Tom Banton",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Will Jacks",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Rowan Powell",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Rinku Singh",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Tilak Varma",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Azam Khan",
+      "category": "Batsman",
+      "base_price": 100000
+    },
+    {
+      "name": "Nitish Rana",
+      "category": "Batsman",
+      "base_price": 100000
+    }
+  ]
+}
