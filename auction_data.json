@@ -27,22 +27,21 @@
         },
         "CSK": {
             "owner": 256972361918578688,
-            "max_size": 18,
+            "max_size": 17,
             "purse": 1320000,
             "players": [
                 "Glenn Maxwell",
-                "MS Dhoni",
+                "SANJU SAMSON",
+                "JOS BUTTLER",
                 "Mohd Shami",
-                "Faf du Plessis",
                 "David Willey",
                 "Sean Willaims",
-                "Suya Kumar Yadav",
+                "Nicholas Pooran",
                 "Shai Hope",
                 "Ish Sodhi",
                 "T Natarajan",
                 "Moise Henriques",
-                "Deepak Hooda",
-                "Shreyas Iyer",
+                "Steve Smith",
                 "Alex Carey",
                 "Bhuvneshwar Kumar",
                 "Kyle Mayers",
@@ -53,7 +52,7 @@
         "BBS": {
             "owner": 748773143543283785,
             "max_size": 18,
-            "purse": 350000,
+            "purse": 650000,
             "players": [
                 "shubman gill",
                 "Kane Williamson",
@@ -65,14 +64,12 @@
                 "Travis Head",
                 "Rinku Singh",
                 "Tim Southee",
-                "Lungi Ngidi",
                 "Mujeeb ur Rahman",
                 "Venki Iyer",
                 "Usman Khawaja",
                 "Prithvi Shaw",
                 "Sarfaraz Khan",
-                "Shardul Thakur",
-                "Dwayne Bravo"
+                "Shardul Thakur"
             ]
         },
         "RL": {
@@ -81,8 +78,9 @@
             "purse": 80000,
             "players": [
                 "RAKHEEM CORNWALL",
-                "SANJU SAMSON",
-                "JOS BUTTLER",
+                "MS Dhoni",
+                "Faf du Plessis",
+                "Suya Kumar Yadav",
                 "HARIS RAUF",
                 "PUJARA",
                 "BUMRAH",
@@ -91,19 +89,18 @@
                 "Azam Khan",
                 "Stuart Broad",
                 "Mitchell Santner",
-                "Jason Holder",
-                "Nicholas Pooran",
                 "Ishan Kishan",
                 "Yuzi Chahal",
                 "Saim Ayub",
                 "Spencer Johnson",
-                "Rahul Chahar"
+                "Rahul Chahar",
+                "Marco Jansen"
             ]
         },
         "PS": {
             "owner": 1111497896018313268,
             "max_size": 18,
-            "purse": 90000,
+            "purse": 0,
             "players": [
                 "Rishabh Pant",
                 "David Warner",
@@ -113,16 +110,15 @@
                 "Adam Zampa",
                 "Nathan Lyon",
                 "KL Rahul",
-                "Josh Little",
                 "Obed McCoy",
-                "Marco Jansen",
                 "Marnus Labuschagne",
                 "Jordan Cox",
-                "Henry Nicholls",
                 "Sandeep Sharma",
                 "Alzarri Joseph",
                 "M Stoinis",
-                "Luis Reece"
+                "Jofra Archer",
+                "Rachin Ravindra",
+                "Jason Holder"
             ]
         },
         "CC": {
@@ -157,7 +153,7 @@
             "players": [
                 "Alex Hales",
                 "Yashasvi Jaiswal",
-                "Steve Smith",
+                "Shreyas Iyer",
                 "Aiden Markram",
                 "Wiaan Mulder",
                 "Pat Cummins",
@@ -212,13 +208,11 @@
                 "Rilee Rossouw",
                 "Rowan Powell",
                 "Zaman Khan",
-                "Rachin Ravindra",
                 "Sikander Raza",
                 "Fakhar Zaman",
                 "Colin Munro",
                 "S Narine",
                 "Iftikhar Ahmed",
-                "Jofra Archer",
                 "Marcus Haris"
             ]
         }
@@ -250,7 +244,7 @@
             "purse": 90000
         },
         "485543064266604581": {
-            "purse": 140000
+            "purse": -10000
         }
     }
 }
